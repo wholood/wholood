@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erimar Reis</h1>
 <h3 align="center">A passionate computer student from venezuela</h3>
 
-<p align="left"> <a href="https://twitter.com/wholood_" target="blank"><img src="https://img.shields.io/twitter/follow/wholood_?logo=twitter&style=for-the-badge" alt="wholood_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/wholood_" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="wholood_" /></a> </p>
 
 - 🌱 I’m currently learning **C++ and Javascript**
 
