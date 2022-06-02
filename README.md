@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erimar Reis</h1>
-<h3 align="center">A passionate computer student from venezuela</h3>
+<h3 align="center">A passionate student of computer science from venezuela</h3>
 
 <p align="left"> <a href="https://twitter.com/wholood_" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="wholood_" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/wholood/](https://github.com/wholood/)
 
-- 📝 I regularly write articles on [Link in progress](Link in progress)
+- 📝 I regularly write articles on (Link in progress)
 
 - 💬 Ask me about **C, Python, HTML and CSS**
 
